@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lan="fr">
+    <head>
+        <metacharset="utf-8">
+        <title>La plongée sous marine</title>
+        <link href="style.css" rel="stylesheet">
+    </head>
+    <body>
+        <h1 id="mon_ancre">La plongée sous marine</h1>
+        <h2><span class="intro">Introduction</span></h2>
+        <p><span class="intro2">La plongé est un sport beaucoup pratiquée, avec plus de 160 000 liscenciés en France. Elle se pratique majoritairement en mer, mais aussi dans des lacs, ou des carrières. Ce sport est très accessible, et il n'est pas rare pour <span class="intro"> des vacancier de s'y essayer le temps d'un bathème. Mais pour certains, cela vas plus loin, et ils passent leurs niveaux, allant toujours plus profond, visitant des épaves. Mais ce sport reste dangereux, et un équipement adapté est <span class="intro"> nécessaire pour continuer a admirer des poissons sans risque. Il faut donc savoir les risques et les limites de la plongé, mais surtout ne pas oublié la magie de ce sport comparable à aucun autre.</span></p>
+        <a href="2.htlm">
+            L'environement et la plongée
+        </a>
+        <p>
+            <img src="../images/image2m.jpg" alt="Plongée en mer">
+        </p>
+        <div class="audio">
+      <h2>Mais qu'entends t'on en plongée ?</h2>
+      <audio controls>
+        <source src="../audio52.mp3"
+      </audio>
+    </div>
+
+        <main>
+        <section>
+        <h2><span class="element">Quel sont les dangers ?</span></h2>
+        <p>En plongé, les dangers sont nombreux, et un accident est vite arrivé. C'est pour cela qu'il ne faut pas oublié certaines règles, intrassigable, même en cas d'urgence. Si il y a un problème, il serait compliqué de en plus se retrouver en danger par manque de prudence.</p>
+        <p>La première règle est de ne jamais plonger seul. Peut importe son niveau, un plongeur sera au minumum accompagné d'un autre plonger du même niveau. Et pour les moins experimenté, une plongé se fait toujours sous la juridiction d'un guide de palanquée, donc un plongeur de niveau 4 minimum.</p>
+        <p>La deuxième règle est de prendre son temps. Le but est de s'amuser, pas de s'essoufler, ce qui est extrèmement dangeureux à plus de 20 mètres de profondeur. Il est aussi important de prendre son temps lors d'une remonté, car plus on descend au plus l'eau applique de pression sur notre corps. C'est d'ailleurs pourquoi certains plongeurs resentent une gène au niveau des orteilles, et effectuent un "vasalvas", une technique consistant à se boucher le nez, et à souffler par celui ci en même temps, ce qui pert d'équillibrer ses oreilles. Donc, en remontant, notre corps doit se réadapter à la pression, et c'est donc important de ne pas remonter trop vite. Un repère souvant utiliser des plongeurs sans ordinateur de plongé, pour connaitre la vitesse de remontée qu'ils doivent adopter, sont les petites bulles qui apparaissent à chaques expirations. Il ne faut pas remonter plus vite que ces bulles d'air, qui remontent a une vitesse d'environ 4 mètres par secondes. De plus, dans les bouteille d'air, un plongeur respire un mélange contenant pkus d'azote qe l'air que nous respirons normalement. L'azote arrive donc dans notre sang, et forme des petites bulles, qui, si on remonte trop vite, bloquent la circulation du sang. C'est pour cette même raison que à partir d'un certain temps à une grande profondeur, il faut effectuer des palier de décompressions, afin de laisser le temps à l'azote de s'évacuer. </p>
+        <p>Lorsque l'on remonte plus vite que cela, on s'expose a des accidents de décompressions : des accidents liés au fait que l'azote forme des bulles dans le sang lorsque la pression diminue. Il existe aussi les barotromatismes, qui sont dus à une mauvaise compensation lors de la descente. Il en existe plusieurs type, et pour les retenir, il existe un moyen mémo-technique : modysp </p>
+        <ol>
+            <li>M comme masque : en remontant, le masque peut se coller a notre visage, ce qui peut être douloureux
+            <li>O comme oreille : comme dis présedament, les oreilles sont très sensibles au changement de pression. C'est pour cette raison qu'il est important de faire le "vasalva", de ne pas plongé enruhmé, et de ne surtout pas forcer. Si les oreilles ne veulent pas se deboucher et font mal, il est preferable d'arreter la plongé, on pourra reessayer un autre jour, cela vaut mieux que de se déchirer les tympans.
+            <li>D comme dents : certaines personnes ont des carries. Malheureusement, en plongé, de l'azote peut se gliusser dans le trou former par la carrie, et en remontant, faire exploser la dent. Un rendez-vous chez le dentiste s'annonce donc avant de commencer à plonger
+            <li>I comme intestin : il arrive d'avoir des gaz, même plusieurs mètres sous la surface. Mais sous l'eau, les retenir n'est vraiment pas une bonne idée. Comme pour les carries, le gaz prend plus de volume en montant, donc il est preferable de ne pas se retenir
+            <li>S comme sinus : Lorsque les sinus sont bouchés, donc qu'on est enruhmé, il est plus que contre indiqué de plonger
+            <li>P comme poumon : lorque l'on remonte, certains ont tendance a retenir leur respiration. Il est preferable d'eviter, car, encore une fois, l'air prend plus de place, et peut dechirer les poumons.
+        </ol>
+        <p>
+            <img src="../images/image5m.jpg"/>
+        </p>
+        </section>
+        <section>
+        <h2>La beauté de la plongé</h2>
+        <p>La plongée sous marine est un sport particulier. Il ne ressemble à aucun autre, et n'est comparable à aucun autre sport. Et c'est ce qui luidonne ce charme. La plongée peut se faire partout dans le monde, et on peut trouver des merveilles, 20 ou 40 mètres sous nos pieds. Rien que en méditérané, on peut trouver des poissons aux couleurs somptueuses, des dauphins nageant paisiblement, parfois, très rarement mais parfois des tortues de mer, et bien d'autres choses encore. Un poisson que l'on peut retrouver notament près de la grèce, est le poisson lion. Plein de couleurs, il est facilement reconnaissable et, il faut le dire, assez impressionnant. Mais en plongée, on ne voit pas que des poissons, des correaux ou autres roches, on peut aussi visiter des épaves. Les plus souvent, elles se trouve vers 30 ou 40 mètres de profondeur, mais il arrive d'en trouver à 20 mètres</p>
+        <p>blah blah bla</p>
+        <p>blah blah bla</p>
+        <p>blah blah bla</p>
+        <p>blah blah bla</p>
+        <p>blah blah bla</p>
+        <p>blah blah bla</p>
+        <div class="container">
+            <div class="box"><img src="../images/image8.jpg"/></div>
+            <div class="box"><img src="../images/image9.jpg"/></div>
+            <div class="box"><img src="../images/image7.jpg"/></div>
+        </div>  
+        <div class="video">
+            <h2>Vidéo de plongée :</h2>
+            <iframe width="900" height="500" src="https://www.youtube.com/embed/rgX165ZzK2w?si=hqEuCxYleGux-5jL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>  
+        </section>
+        </main>
+        <footer>
+            <a href="https://www.lapalmedelavallee.fr/">
+            Site web de la Palme de la vallée
+
+            <a href="#mon_ancre">
+            <p>Retour en haut de la page</p>
+            </a>
+        </footer>
+    </body>
+<html>
